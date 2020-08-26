@@ -1,0 +1,18 @@
+#include <stdio.h>
+int main(){
+	int l,r,t,k;
+	scanf("%d",&t);
+	scanf("%d", &l);
+		scanf("%d", &r);
+scanf("%d", &k);
+while(t--){
+if(l==r) 
+{
+	printf("1");
+}
+else{
+	printf("%d",k);
+}
+	}}
+
+
